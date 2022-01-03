@@ -1,0 +1,11 @@
+hoy  practicamos con position css
+
+conceptos 
+
+          alto definido
+y
+          ancho definido        
+
+el programador puso datos definidos
+          width: 300px;
+          height: 500px;
