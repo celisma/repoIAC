@@ -9,3 +9,36 @@ y
 el programador puso datos definidos
           width: 300px;
           height: 500px;
+
+----------------------------------------
+propiedad 
+display: block 
+display: inline-block(flota los elementos a la izq mientras haya espacio)
+
+-------------------------------
+propiedad 
+      min-width
+      max-width
+
+      min-height
+      max-height
+
+*******************************
+propiedad POSITION:  static
+                     relative
+                     absolute
+                     fixed
+
+
+postion : relative;( conserva su espacio dentro del flujo o dentro de la caja)
+left : 40px( se mueve desde ese punto hacia la derecha 40 px)
+top: 600px (se mueve 600 px hacia abajo)
+
+----------------------------
+position absolute; (se rompe el flujo, y pierde su espacio en la caja)
+top: 20px;(se toma top en margen superior de formulario o desde el viupor)
+
+--------------------
+position fixed:
+hace quedar fijo al componente mientras la pag puede scrollearse
+
